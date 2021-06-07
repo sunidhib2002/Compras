@@ -2,15 +2,20 @@
 <html>
 <link href="trialcss.css" rel="stylesheet" text="text/css">
 <head>
-<title>CART - COMPRAS</title>
+<title>COMPRAS</title>
 <link href="https://fonts.googleapis.com/css2?family=Sriracha&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Sriracha&display=swap" rel="stylesheet">
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
-
-<div  class="menu PD">
+<div class="bg">
+	<div class="container">
+    <div  class="menu">
     <div class="navbar">
     	<div class="brand">
     		<h1><em>Compras<span class="tagline">-Adding moments of style</span></em></h1>
@@ -18,74 +23,70 @@
     </div>
 	<nav>	
     <ul>
-	<li class="item"><a href="trial.html" target="_blank"><button class="btn1">Home</button></a></li>
+	<li class="item"><a href=""><button class="btn1">Home</button></a></li>
 	<li class="item"><a href="products.html" target="_blank"><button class="btn1">Products</button></a></li>
-	<li class="item"><a href="trial.html" target="_blank"><button class="btn1">About</button></a></li>
-	<li class="item"><a href="account.html" target="_blank"><button class="btn1">Account</button></a></li>
+	<li class="item"><a href="#about"><button class="btn1">About</button></a></li>
+	<li class="item"><a href=""><button class="btn1">Account</button></a></li>
 	<a href="cart.html" target="_blank"><img src="images/7.png" width="30px" height="30px" /></a>
 	</ul>
 	</nav>
 	</div>
+	</div>
+	<div class="row-11">
+		<div class="col-11">
+			<img src="images/register.jpg">
+		</div>
 
-	<!-- cart items details -->
-	<div class="small-container cart-page">
-		<table>
-			<tr>
-				<th>Product</th>
-				<th>Quantity</th>
-				<th>Subtotal</th>
-			</tr>
-			<tr>
-				<td>
-					<div class="cart-info">
-						<img src="images/20.jpg">
-						<div>
-							<p>Amado Stylish shoulder bag</p>
-							<small>Price:₹5599.00</small>
-							<br>
-							<a href="">Remove</a>
-						</div>
-					</div>
-				</td>
-				<td><input type="number" value="1"></td>
-				<td>₹5599.00</td>
-			</tr>
-			<tr>
-				<td>
-					<div class="cart-info">
-						<img src="images/14.jpg">
-						<div>
-							<p>Lavie Stylish shoulder bag</p>
-							<small>Price:₹5000.00</small>
-							<br>
-							<a href="">Remove</a>
-						</div>
-					</div>
-				</td>
-				<td><input type="number" value="1"></td>
-				<td>₹5000.00</td>
-			</tr>
-		</table>
-		<div class="total-price">
-			<table>
-				<tr>
-					<td>Subtotal</td>
-					<td>10599.00</td>
-				</tr>
-				<tr>
-					<td>Tax</td>
-					<td>200.00</td>
-				</tr>
-				<tr>
-					<td>Total</td>
-					<td>10799.00</td>
-				</tr>
-			</table>
+		<div class="col-11">
+			<div class="form_1">
+			<form>
+				<center>
+				<caption>REGISTER</caption>
+				<br>
+				<label>Email</label>
+				<br>
+				<input type="text">
+				<br>
+				<label>Username</label>
+				<br>
+				<input type="text">
+				<br>
+				<label>Password</label>
+				<br>
+				<input type="password">
+				<br>
+				<label>Confirm Password</label>
+				<br>
+				<input type="password">
+				<br>
+				<center><button class="btn-4">REGISTER NOW</button></center>
+			</center>
+			</form>
+		</div>
+		</div>
+
+		<div class="col-11">
+		<div class="form">
+			<form>
+				<center>
+				<caption>LOGIN</caption>
+				<br>
+				<label>Email</label>
+				<br>
+				<input type="text">
+				<br>
+				<label>Password</label>
+				<br>
+				<input type="password">
+				<br>
+				<center><button class="btn-4">LOGIN NOW</button></center>
+			</center>
+			</form>
 		</div>
 	</div>
+	</div>
 
-
-<div class="footer">
+	<div class="footer">
 	<div class="container">
 		<div class="row">
 			<div class="footer-col-1">
@@ -124,6 +125,7 @@
 	</div>
 </div>
 
-</body>
 
+</div>
+</body>
 </html>
