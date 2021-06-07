@@ -10,6 +10,11 @@
  <li>Details Page for a specific Product</li>
 </ul>
 <hr>
+<h2>Languages Used</h2>
+<ul>
+ <li>HTML5</li>
+ <li>CSS3</li>
+</ul>
 <h2>ScreenShots</h2>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_1.PNG" />
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_2.PNG" />
