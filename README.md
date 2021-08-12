@@ -16,9 +16,19 @@
  <li>CSS3</li>
 </ul>
 <h2>ScreenShots</h2>
+<img src = "https://github.com/sunidhib2002/Compras/blob/main/screenshots/flash-cards.gif" />
+<br>
+<img src = "https://github.com/sunidhib2002/Compras/blob/main/screenshots/hovereffect.gif" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_1.PNG" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_2.PNG" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_3.PNG" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_4.PNG" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_5.PNG" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_6.PNG" />
+<br>
