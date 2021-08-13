@@ -20,6 +20,8 @@
 <br>
 <img src = "https://github.com/sunidhib2002/Compras/blob/main/screenshots/hovereffect.gif" />
 <br>
+<img src = "https://github.com/sunidhib2002/Compras/blob/main/screenshots/testimonials.gif" />
+<br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_1.PNG" />
 <br>
 <img src="https://github.com/sunidhib2002/Compras/blob/main/screenshots/website_2.PNG" />
